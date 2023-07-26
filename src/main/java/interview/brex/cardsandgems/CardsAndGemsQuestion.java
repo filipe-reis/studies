@@ -79,7 +79,7 @@ class Purchase{
 
     // Não tive tempo para criar os objetos Card e Player durante a entrevista
     // e não tive tempo para testar esse metodo.
-    public boolean purchase(Card card, Player player){
+    /*public boolean purchase(Card card, Player player){
         HashMap gems = new HashMap();
         gems = card.gems;
 
@@ -94,5 +94,5 @@ class Purchase{
             }
             player.wallet = wallet;
         }
-    }
+    }*/
 }
